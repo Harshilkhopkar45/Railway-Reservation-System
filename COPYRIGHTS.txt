@@ -1,0 +1,19 @@
+© 2025 Harshil Khopkar. All rights reserved.
+
+Project Title: Railway Reservation System using Python and SQL Connectivity  
+Author: Harshil Khopkar  
+GitHub: https://github.com/harshilkhopkar45
+
+This project is a part of my personal academic portfolio, created for learning and showcasing my skills in Python programming and database integration.
+
+You are allowed to:
+- View and understand the code for learning purposes
+- Use it as a reference in academic projects with proper attribution
+
+You are NOT allowed to:
+- Copy, modify, or redistribute this project for public or commercial use
+- Submit or represent this work as your own in academic or hiring contexts
+
+This project is shared publicly for educational visibility and portfolio evaluation only.
+
+To request permission for reuse beyond personal learning, please contact the author via GitHub.
