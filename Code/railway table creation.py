@@ -1,6 +1,6 @@
 def table_creation_railway():
     import mysql.connector
-    mycon=mysql.connector.connect(host='localhost',user='root',passwd='hk45',database='railway')
+    mycon=mysql.connector.connect(host='localhost',user='root',passwd='',database='railway')
     cursor=mycon.cursor()
     mycon.autocommit=True
     s1="create table railway(name varchar(100),phno varchar(15)  primary key,age int(4),gender varchar(50),from_f varchar(100),to_t varchar(100),date_d varchar(20))"
